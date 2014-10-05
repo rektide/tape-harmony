@@ -1,0 +1,26 @@
+{
+	"name": "tape-harmony",
+	"version": "1.0.0",
+	"description": "Tape with harmony wrapper",
+	"main": "tape-harmony",
+	"bin": {
+		"tape-harmony": "node --harmony node_modules/.bin/tape"
+	},
+	"scripts": {
+		"tape-harmony": "node --harmony node_modules/.bin/tape",
+		"test": "node --harmony node_modules/.bin/tape test/*js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rektide/tape-harmony"
+	},
+	"author": "rektide de la faye",
+	"license": "X",
+	"bugs": {
+		"url": "https://github.com/rektide/tape-harmony/issues"
+	},
+	"homepage": "https://github.com/rektide/tape-harmony",
+	"dependencies": {
+		"tape": "^3.0.0"
+	}
+}
