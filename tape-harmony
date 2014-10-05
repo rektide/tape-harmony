@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+node --harmony node_modules/.bin/tape $*
