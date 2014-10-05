@@ -1,8 +1,8 @@
 {
 	"name": "tape-harmony",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Tape with harmony wrapper",
-	"main": "tape-harmony",
+	"main": "tape-harmony.js",
 	"bin": {
 		"tape-harmony": "tape-harmony"
 	},
